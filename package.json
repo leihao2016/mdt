@@ -1,6 +1,6 @@
 {
   "name": "mllfe",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "meilele front-end developer toolkit!",
   "main": "",
   "scripts": {
@@ -21,6 +21,8 @@
     "commander": "^2.15.1"
   },
   "dependencies": {
-    "fs-extra": "^5.0.0"
+    "fs-extra": "^5.0.0",
+    "bluebird": "^3.5.1",
+    "commander": "^2.15.1"
   }
 }
