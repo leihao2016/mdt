@@ -1,0 +1,26 @@
+{
+  "name": "mllfe",
+  "version": "1.0.0",
+  "description": "meilele front-end developer toolkit!",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mdt": "./bin/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "url": "https://github.com/leihao2016/mdt.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leihao2016/mdt.git"
+  },
+  "devDependencies": {
+    "bluebird": "^3.5.1",
+    "commander": "^2.15.1"
+  },
+  "dependencies": {
+    "fs-extra": "^5.0.0"
+  }
+}
